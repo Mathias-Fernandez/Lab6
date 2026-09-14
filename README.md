@@ -8,5 +8,5 @@ npm run dev
 ## Informe
 **Alumno:** Mathias Fernandez
 La verdad que costó bastante utilizar git y aprender a utilizar los comandos.
-**Link GH page:** 
+**Link GH page:** [https://mathias-fernandez.github.io/Lab6/](https://mathias-fernandez.github.io/Lab6/)
 
